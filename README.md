@@ -3,7 +3,7 @@
         <h1>Hi, i'm an IT student studying at ITIS (in Italy).</h1>
         <h2>Skills</h2>
         <!--Programming Languages Icons-->
-        <img src="https://skillicons.dev/icons?i=java,javascript,git,vscode,html,css&theme=dark"/>
+        <img src="https://skillicons.dev/icons?i=java,C,javascript,git,vscode,html,css&theme=dark"/>
         <h2>My Stats</h2>
         <!--My Stats-->
         <img src="https://github-readme-stats.vercel.app/api?username=FMarck07&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&count_private=true" width="350"/>
