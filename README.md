@@ -12,6 +12,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,mysql,git,linux,vscode&theme=dark" alt="Languages and Tools" />
     </a>
+    <img src="https://img.shields.io/badge/Hack-0e5d87?style=for-the-badge&logo=hack&logoColor=white" height="40" style="vertical-align: 5px; margin-left: 8px;" alt="Hack" />
     <img src="https://img.shields.io/badge/AutoCAD-E51A24?style=for-the-badge&logo=autodesk&logoColor=white" height="40" style="vertical-align: 5px; margin-left: 8px;" alt="AutoCAD" />
   </p>
 
@@ -24,7 +25,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=FMarck07&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMarck07&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=hack" alt="Top Languages" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMarck07&theme=midnight-purple&bg_color=0d1117&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="175" />
       </td>
     </tr>
   </table>
