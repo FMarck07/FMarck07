@@ -12,8 +12,9 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,mysql,git,linux,vscode&theme=dark" alt="Languages and Tools" />
     </a>
-    <img src="https://img.shields.io/badge/Hack-0e5d87?style=for-the-badge&logo=hack&logoColor=white" height="40" style="vertical-align: 5px; margin-left: 8px;" alt="Hack" />
-    <img src="https://img.shields.io/badge/AutoCAD-E51A24?style=for-the-badge&logo=autodesk&logoColor=white" height="40" style="vertical-align: 5px; margin-left: 8px;" alt="AutoCAD" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Hack-0e5d87?style=for-the-badge&logo=hack&logoColor=white" height="36" alt="Hack" />
+    <img src="https://img.shields.io/badge/AutoCAD-E51A24?style=for-the-badge&logo=autodesk&logoColor=white" height="36" alt="AutoCAD" />
   </p>
 
   <br>
