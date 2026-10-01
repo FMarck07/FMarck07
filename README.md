@@ -23,7 +23,7 @@
   <table align="center" border="0">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats-one-pied-56.vercel.app/api?username=FMarck07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=true&v=1" alt="GitHub Stats" height="175" />
+        <img src="https://github-readme-stats-one-pied-56.vercel.app/api?username=FMarck07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=false&v=1" alt="GitHub Stats" height="175" />
       </td>
       <td align="center" style="border: none;">
         <img src="https://github-readme-stats-one-pied-56.vercel.app/api/top-langs/?username=FMarck07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true&v=1" alt="Top Languages" height="175" />
