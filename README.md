@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Ciao, I'm Marco 👋</h1>
+    <h1>Hi, I'm Francesco 👋</h1>
     <p>
         🎓 <strong>B.Sc. Student in Electronics and Computer Science Engineering</strong> at the <strong>University of Ferrara (UniFE)</strong>, Italy.<br>
         With a technical background from ITIS, focusing on embedded systems, software logic, and low-level programming.
