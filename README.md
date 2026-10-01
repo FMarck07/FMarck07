@@ -2,7 +2,7 @@
   <h1>Hi, I'm FMarck07 👋</h1>
   <p>
     🎓 <strong>B.Sc. Student in Electronics and Computer Science Engineering</strong> at the <strong>University of Ferrara (UniFE)</strong>, Italy.<br>
-    With an ITIS technical background, bridging low-level software, embedded systems, and electronics.
+    With an ITIS technical background.
   </p>
 
   <br>
