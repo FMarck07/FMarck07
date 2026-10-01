@@ -2,14 +2,14 @@
   <h1>Hi, I'm FMarck07 👋</h1>
   <p>
     🎓 <strong>B.Sc. Student in Electronics and Computer Science Engineering</strong> at the <strong>University of Ferrara (UniFE)</strong>, Italy.<br>
-    With an ITIS technical background, bridging low-level software, embedded systems, and electronics.
+    With an ITIS technical background, bridging low-level software, databases, and electronics.
   </p>
 
   <br>
 
-  <h2>🛠 Skills & Tools</h2>
+  <h2>🛠 Languages & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,git,vscode,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,java,php,js,mariadb,html,css,git,vscode&theme=dark" alt="My Skills" />
   </a>
 
   <br><br>
