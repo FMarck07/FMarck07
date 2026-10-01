@@ -7,15 +7,12 @@
 
   <br>
 
-  <h2>🛠 Languages & Technologies</h2>
-  <!-- Stack con icone visibili -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,php,js,html,css,mysql,git,vscode&theme=dark" alt="My Skills" />
-    </a>
-  </p>
+  <h2>🛠 Languages & Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,mysql,git,vscode&theme=dark" alt="My Skills" />
+  </a>
 
-  <br>
+  <br><br>
 
   <h2>📊 My Stats</h2>
   <p align="center">
