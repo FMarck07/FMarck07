@@ -2,20 +2,20 @@
   <h1>Hi, I'm FMarck07 👋</h1>
   <p>
     🎓 <strong>B.Sc. Student in Electronics and Computer Science Engineering</strong> at the <strong>University of Ferrara (UniFE)</strong>, Italy.<br>
-    With an ITIS technical background, bridging low-level software, embedded systems, CAD design, and electronics.
+    With an ITIS technical background, bridging low-level software, embedded systems, and electronics.
   </p>
 
   <br>
 
   <h2>🛠 Languages & Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,mysql,git,vscode&theme=dark" alt="My Skills" />
-  </a>
-  <br><br>
-  <!-- CAD & Hardware Tools -->
-  <img src="https://img.shields.io/badge/AutoCAD-E51A24?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,py,java,php,js,html,css,mysql,git,linux,vscode&theme=dark" alt="My Skills" />
+    </a>
+    <img src="https://cdn.simpleicons.org/autodesk/E51A24" width="48" height="48" style="vertical-align: middle; margin-left: 6px;" alt="AutoCAD" />
+  </p>
 
-  <br><br>
+  <br>
 
   <h2>📊 My Stats</h2>
   <p align="center">
