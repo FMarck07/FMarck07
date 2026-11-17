@@ -35,18 +35,6 @@ With an ITIS technical background.
 
 <br>
 
-<h2>📊 My Stats</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=FMarck07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_rank=false" alt="GitHub Stats" height="175" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMarck07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-
 
 <br>
 
