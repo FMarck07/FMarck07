@@ -24,7 +24,7 @@ With an ITIS technical background.
 
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Hack-0e5d87?style=for-the-badge&logo=hack&logoColor=white" height="36" alt="Hack" />
 
