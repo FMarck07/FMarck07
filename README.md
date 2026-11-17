@@ -62,8 +62,5 @@
 
   <br><br>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=F43F5E&center=true&vCenter=true&width=600&height=80&lines=%3E+%E2%80%9CNo+promises.+Just+results.%E2%80%9D;-%20Simon%20%22Ghost%22%20Riley" alt="Ghost Quote" />
-  </p>
 
 </div>
