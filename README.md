@@ -32,12 +32,6 @@ With an ITIS technical background.
 
 </p>
 
-
-<br>
-
-
-<br>
-
 <hr>
 
 </div> 
